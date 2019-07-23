@@ -1,6 +1,6 @@
 {
   "name": "nice-errors-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a custom webpack errors plugin base on friendly-errors-webpack-plugin.",
   "main": "index.js",
   "scripts": {
