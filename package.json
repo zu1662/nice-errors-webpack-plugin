@@ -1,0 +1,22 @@
+{
+  "name": "nice-errors-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a custom webpack errors plugin base on friendly-errors-webpack-plugin.",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "homepage": "https://github.com/zu1662/nice-errors-webpack-plugin#readme",
+  "author": "zu1662",
+  "license": "MIT",
+  "dependencies": {
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "ip": "^1.1.5"
+  },
+  "keywords": [
+    "nice",
+    "errors",
+    "webpack",
+    "plugin"
+  ]
+}
